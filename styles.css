@@ -1,0 +1,21 @@
+h1 {
+	font-family: fantasy;
+	background-color: grey;
+	text-align: center;
+}
+
+.done {
+	text-decoration: line-through;
+}
+
+.something {
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
